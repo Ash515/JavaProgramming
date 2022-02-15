@@ -1,3 +1,4 @@
+package Applications;
 import java.util.Scanner;
 
 import javax.sql.rowset.spi.SyncResolver;
