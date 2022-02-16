@@ -2,7 +2,9 @@
 Java programming basics to Advance concepts.
 
 ## Index
+- Basics
 - Arithmetic Operations
+- Exception Handling
 - Programs
 
 
