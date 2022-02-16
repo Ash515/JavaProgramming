@@ -1,7 +1,10 @@
-# JAVA Programming 
+# Java Programming 
+Java programming basics to Advance concepts.
 
 ## Index
-- Bascis
+- Arithmetic Operations
+- Programs
 
-## Contributers
+
+## Contributors
 - Ashwin Kumar R
