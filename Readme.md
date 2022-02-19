@@ -5,7 +5,7 @@ Java programming basics to Advance concepts.
 - Basics
   - Arithmetic Operations
 - Exception Handling
-- Programs
+- Algorithms
 
 
 ## Contributors ❤
